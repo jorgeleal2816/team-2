@@ -1,3 +1,10 @@
-body{ 
-    background-color: blue;
+body{
+    /* background-color: blue; */
 }
+
+.main-menu {
+    display: flex;
+    list-style: none;
+    gap: 16px;
+}
+
