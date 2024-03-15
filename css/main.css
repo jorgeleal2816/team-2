@@ -1,3 +1,30 @@
-body{ 
-    background-color: blue;
+body{
+    background-color: papayawhip;
+}
+.Redes {
+    display: flex;
+    list-style: none;
+    gap: 16px;
+    padding: 10px;;
+    font-weight: bolder;
+    justify-content: flex-end;
+}
+.link{
+    color: black;
+}
+.Nosotros{
+    display: flex;
+    list-style: none;
+    gap: 200px;
+    font-weight: bolder;
+}
+.Informacion{
+    display: flex;
+    list-style: none;
+    gap: 200px;
+}
+.Datos{
+    display: flex;
+    list-style: none;
+    gap: 147px;
 }
