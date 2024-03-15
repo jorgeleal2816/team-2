@@ -1,6 +1,11 @@
 body{
     background-color: papayawhip;
 }
+.main-menu {
+    display: flex;
+    list-style: none;
+    gap: 16px;
+}
 .Redes {
     display: flex;
     list-style: none;
